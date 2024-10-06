@@ -8,7 +8,7 @@ pip install -r requirement.txt
 ```
 
 ```
-usage: WifiBF.py [-h] [-s] [-w] [-v ]
+usage: WifiBruter.py [-h] [-s] [-w] [-v ]
 
 argparse Example
 
