@@ -4,7 +4,6 @@ Just a simple wifi bruter worked on windows and linux (kali)
 
 ```
 pip install -r requirement.txt
-
 ```
 
 ```
